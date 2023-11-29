@@ -1,0 +1,14 @@
+C:\Users\ACER\OneDrive\Desktop\Practise Project3\practise project3\practise project3\bin\Debug\net6.0\practise project3.exe
+C:\Users\ACER\OneDrive\Desktop\Practise Project3\practise project3\practise project3\bin\Debug\net6.0\practise project3.deps.json
+C:\Users\ACER\OneDrive\Desktop\Practise Project3\practise project3\practise project3\bin\Debug\net6.0\practise project3.runtimeconfig.json
+C:\Users\ACER\OneDrive\Desktop\Practise Project3\practise project3\practise project3\bin\Debug\net6.0\practise project3.dll
+C:\Users\ACER\OneDrive\Desktop\Practise Project3\practise project3\practise project3\bin\Debug\net6.0\practise project3.pdb
+C:\Users\ACER\OneDrive\Desktop\Practise Project3\practise project3\practise project3\obj\Debug\net6.0\practise project3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACER\OneDrive\Desktop\Practise Project3\practise project3\practise project3\obj\Debug\net6.0\practise project3.AssemblyInfoInputs.cache
+C:\Users\ACER\OneDrive\Desktop\Practise Project3\practise project3\practise project3\obj\Debug\net6.0\practise project3.AssemblyInfo.cs
+C:\Users\ACER\OneDrive\Desktop\Practise Project3\practise project3\practise project3\obj\Debug\net6.0\practise project3.csproj.CoreCompileInputs.cache
+C:\Users\ACER\OneDrive\Desktop\Practise Project3\practise project3\practise project3\obj\Debug\net6.0\practise project3.dll
+C:\Users\ACER\OneDrive\Desktop\Practise Project3\practise project3\practise project3\obj\Debug\net6.0\refint\practise project3.dll
+C:\Users\ACER\OneDrive\Desktop\Practise Project3\practise project3\practise project3\obj\Debug\net6.0\practise project3.pdb
+C:\Users\ACER\OneDrive\Desktop\Practise Project3\practise project3\practise project3\obj\Debug\net6.0\practise project3.genruntimeconfig.cache
+C:\Users\ACER\OneDrive\Desktop\Practise Project3\practise project3\practise project3\obj\Debug\net6.0\ref\practise project3.dll
